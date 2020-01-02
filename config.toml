@@ -1,0 +1,5 @@
+baseURL = "http://helloandrey.github.io/texts/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "abstract"
+publishDir = "docs"
