@@ -6,19 +6,9 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 01:31:39 +0300</lastBuildDate>
     
 	<atom:link href="http://helloandrey.github.io/texts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://helloandrey.github.io/texts/posts/my-first-post/</link>
-      <pubDate>Fri, 03 Jan 2020 01:31:39 +0300</pubDate>
-      
-      <guid>http://helloandrey.github.io/texts/posts/my-first-post/</guid>
-      <description>hdllo</description>
-    </item>
     
   </channel>
 </rss>
