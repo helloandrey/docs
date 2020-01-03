@@ -3,3 +3,16 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "abstract"
 publishDir = "docs"
+
+[menu]
+	[[menu.main]]
+	identifier = "home"
+	name       = "Main Page"
+	url        = "/"
+	weight     = 1
+
+	[[menu.main]]
+	identifier = "posts"
+	name       = "All Notes"
+	url        = "/posts"
+	weight     = 2
