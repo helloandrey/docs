@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://helloandrey.github.io/docs/posts/my-first-post/</link>
+      <title>How to set GRUB timeout to zero</title>
+      <link>https://helloandrey.github.io/docs/posts/grub-timer/</link>
       <pubDate>Fri, 03 Jan 2020 01:31:39 +0300</pubDate>
       
-      <guid>https://helloandrey.github.io/docs/posts/my-first-post/</guid>
-      <description>hdllo
-sdf</description>
+      <guid>https://helloandrey.github.io/docs/posts/grub-timer/</guid>
+      <description>Edit GRUB_TIMEOUT=0 line in /etc/default/grub configuration file, then run following command to apply the changes:
+grub-mkconfig -o /boot/grub/grub.cfg </description>
     </item>
     
   </channel>

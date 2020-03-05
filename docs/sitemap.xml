@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://helloandrey.github.io/docs/posts/my-first-post/</loc>
+    <loc>https://helloandrey.github.io/docs/tags/config/</loc>
+    <lastmod>2020-01-03T01:31:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helloandrey.github.io/docs/tags/grub/</loc>
+    <lastmod>2020-01-03T01:31:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helloandrey.github.io/docs/posts/grub-timer/</loc>
     <lastmod>2020-01-03T01:31:39+03:00</lastmod>
   </url>
   
@@ -18,11 +28,12 @@
   </url>
   
   <url>
-    <loc>https://helloandrey.github.io/docs/categories/</loc>
+    <loc>https://helloandrey.github.io/docs/tags/</loc>
+    <lastmod>2020-01-03T01:31:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://helloandrey.github.io/docs/tags/</loc>
+    <loc>https://helloandrey.github.io/docs/categories/</loc>
   </url>
   
 </urlset>

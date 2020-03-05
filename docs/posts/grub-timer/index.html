@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-us">
     <meta charset="utf-8">
-<title>404 Page not found - My New Hugo Site</title>
+<title>How to set GRUB timeout to zero - My New Hugo Site</title>
 
 
 <link rel="stylesheet" href="https://helloandrey.github.io/docs/style.css">
@@ -47,22 +47,50 @@
 </div>
 
             <article class="content">
-<div id="fourofour" class="">
-	<div id="fourofour__title">
-		<h1 class="h1-display">Oops.</br>Error 404</h1>
-	</div>
-	<div id="fourofour__text-1">
-		<p>
-		Sorry, we couldn’t find the page you’re looking for.</br>
-		You may have mistyped the address or the page may have moved.
-		</p>
-	</div>
-	<div id="fourofour__button">
-		<a class="btn pill" href="/docs/">
-			Please visit our homepage
-		</a>
-	</div>
-</div>
+<article id="main">
+    <header id="header">
+        <h1 id="title">How to set GRUB timeout to zero</h1>
+    </header>
+    <section id="content">
+        <p>Edit <code>GRUB_TIMEOUT=0</code> line in <code>/etc/default/grub</code> configuration file, then run following command to apply the changes:</p>
+<pre><code>grub-mkconfig -o /boot/grub/grub.cfg
+</code></pre>
+    </section>
+    <footer id="footer">
+        <div id="meta">
+            <div id="meta__category">
+                <ul>
+                    
+                </ul>
+            </div>
+            <div id="meta__words">
+                <span>18 words</span>
+            </div>
+            <div id="meta__tags">
+                <ul>
+                    
+                    <li>
+                        <a href="/tags/grub ">grub</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/tags/config ">config</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div id="nav">
+            <div id="nav__prev">
+                
+            </div>
+            <div id="nav__next">
+                <span id="arrow">&rarr;</span>
+                
+            </div>
+        </div>
+    </footer>
+</article>
 
             </article>
             <aside class="side" role="complementary">

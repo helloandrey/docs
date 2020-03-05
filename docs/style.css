@@ -186,7 +186,6 @@ kbd {
       border: 1px solid var(--gray-500);
       border-bottom-color: var(--gray-400);
       box-shadow: inset 0 -1px 0 var(--gray-400); } }
-
 main.wrapper {
   display: grid;
   grid-gap: 0px;
